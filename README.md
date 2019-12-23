@@ -16,6 +16,7 @@
 * 编辑功能，文件导入功能。
 * 基本的编辑器快捷键，如Ctrl+N(New)/O(Open)/S(Save)/Z(Undo)/Y(Redo)/C/X/V，以及汇编快捷键Ctrl+Enter。
 * 未保存文件标记，即右上角标记星号`*`。
+
     ![star on changed file](example/star.png)
 * 行数显示。
 * 还算美观的界面(tkinter太丑了，而且元素布局不大好控制，可能是我没学会吧)
